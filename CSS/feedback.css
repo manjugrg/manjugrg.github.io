@@ -1,0 +1,48 @@
+td {font-size: 20px;
+}
+
+
+
+input[type=text] {padding: 6px;
+border-radius: 4px;
+border: none;}
+
+input[type=email] {padding: 6px;
+    border-radius: 4px;
+    border: none;}
+
+textarea {padding: 40px;
+border: none;
+border-radius: 4px;
+width: 75%;}
+
+#Country {padding: 6px;
+border-radius: 4px;
+border: none;}
+
+input[type=submit] {padding: 6px;
+border: none;
+border-radius: 4px;
+float: left;}
+
+input[type=submit]:hover {background-color: aliceblue;}
+
+ 
+
+.feedback {width: 50%;
+background-color: wheat;
+padding: 20px;
+position: relative;
+left: 300px;
+border: #00C9A7;
+border-radius: 20px;}
+
+.feedback1 {background-color: #845EC2;
+padding: 80px;}
+
+
+
+
+.footer {
+    padding:8px;
+    text-align:center;}
